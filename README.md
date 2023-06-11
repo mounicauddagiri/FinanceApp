@@ -3,20 +3,20 @@
 A MERN stack application for a finance dashboard and a predictions page which uses ML regression method for predicting the revenue.
 
 ## Frontend
-React.js
-Redux
-Vite for starter application
+1. React.js
+2. Redux
+3. Vite for starter application
 
 ## Backend
-Node.js
-Express.js
+1. Node.js
+2. Express.js
 
 ## Database
 MongodDB
 
 ## Components and Libraries
-Material UI
-Recharts
+1. Material UI
+2. Recharts
 
 ## Dashboard page
 ![image](https://github.com/mounicauddagiri/FinanceApp/assets/27152495/c9995f63-11a2-4828-8c08-ff2c9f728c92)
